@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.35b309c5.chunk.css",
-    "main.js": "/static/js/main.2dea96f0.chunk.js",
-    "main.js.map": "/static/js/main.2dea96f0.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.5c357447.js",
-    "runtime-main.js.map": "/static/js/runtime-main.5c357447.js.map",
-    "static/js/2.e8ede047.chunk.js": "/static/js/2.e8ede047.chunk.js",
-    "static/js/2.e8ede047.chunk.js.map": "/static/js/2.e8ede047.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.0e8d31a2d2f27760a05eccf020c265e5.js": "/precache-manifest.0e8d31a2d2f27760a05eccf020c265e5.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.35b309c5.chunk.css.map": "/static/css/main.35b309c5.chunk.css.map",
-    "static/js/2.e8ede047.chunk.js.LICENSE.txt": "/static/js/2.e8ede047.chunk.js.LICENSE.txt"
+    "main.css": "/noughts-and-crosses/static/css/main.35b309c5.chunk.css",
+    "main.js": "/noughts-and-crosses/static/js/main.2dea96f0.chunk.js",
+    "main.js.map": "/noughts-and-crosses/static/js/main.2dea96f0.chunk.js.map",
+    "runtime-main.js": "/noughts-and-crosses/static/js/runtime-main.aaa46902.js",
+    "runtime-main.js.map": "/noughts-and-crosses/static/js/runtime-main.aaa46902.js.map",
+    "static/js/2.e8ede047.chunk.js": "/noughts-and-crosses/static/js/2.e8ede047.chunk.js",
+    "static/js/2.e8ede047.chunk.js.map": "/noughts-and-crosses/static/js/2.e8ede047.chunk.js.map",
+    "index.html": "/noughts-and-crosses/index.html",
+    "precache-manifest.492a049d58601fedc5e401ab13851a15.js": "/noughts-and-crosses/precache-manifest.492a049d58601fedc5e401ab13851a15.js",
+    "service-worker.js": "/noughts-and-crosses/service-worker.js",
+    "static/css/main.35b309c5.chunk.css.map": "/noughts-and-crosses/static/css/main.35b309c5.chunk.css.map",
+    "static/js/2.e8ede047.chunk.js.LICENSE.txt": "/noughts-and-crosses/static/js/2.e8ede047.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5c357447.js",
+    "static/js/runtime-main.aaa46902.js",
     "static/js/2.e8ede047.chunk.js",
     "static/css/main.35b309c5.chunk.css",
     "static/js/main.2dea96f0.chunk.js"
